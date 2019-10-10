@@ -16,7 +16,7 @@ end
 
 
 def link
-  link = "It's Dangerous To Go Alone! Take This. "
+  link = "It's Dangerous To GO Alone! Take This. "
   puts link
 end
 
